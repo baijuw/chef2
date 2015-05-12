@@ -1,0 +1,4 @@
+This server is a property of <%= node["motd"]["company"] %> 
+<% if node["pci"]["in_scope"] -%> 
+This server is in-scope for PCI cmpliance 
+<% end -%>

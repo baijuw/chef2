@@ -1,0 +1,114 @@
+I, [2015-05-11T20:54:29.947420 #2136]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-11T20:54:34.828205 #2136]  INFO -- Kitchen: -----> Creating <default-centos-65>...
+I, [2015-05-11T20:57:55.759066 #2136]  INFO -- Kitchen: -----> Kitchen is finished. (3m25.81s)
+I, [2015-05-11T21:45:10.906188 #1192]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-11T21:45:14.916772 #1192]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-11T21:46:02.026168 #1192] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-11T21:46:42.307443 #2004]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-11T21:46:46.307444 #2004]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-11T21:47:16.588706 #2004] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-11T21:48:17.753048 #2960]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-11T21:48:21.783464 #2960]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-11T21:48:54.166880 #2960]  INFO -- Kitchen: -----> Kitchen is finished. (0m36.41s)
+I, [2015-05-11T22:18:11.402160 #1660]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-11T22:18:15.467557 #1660]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-11T22:18:40.042795 #1660]  INFO -- Kitchen: -----> Kitchen is finished. (0m28.63s)
+I, [2015-05-11T22:24:16.294291 #1264]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+E, [2015-05-11T22:24:20.390468 #1264] ERROR -- Kitchen: 
+No instances for regex `--help', try running `kitchen list'
+
+
+I, [2015-05-11T22:25:30.480510 #2536]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+E, [2015-05-11T22:25:34.527386 #2536] ERROR -- Kitchen: 
+No instances for regex `--help', try running `kitchen list'
+
+
+I, [2015-05-11T22:25:58.035372 #3932]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+E, [2015-05-11T22:26:02.058650 #3932] ERROR -- Kitchen: 
+No instances for regex `setup|--help', try running `kitchen list'
+
+
+I, [2015-05-12T15:32:17.829538 #3956]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T15:32:21.855804 #3956]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T15:32:48.824563 #3956]  INFO -- Kitchen: -----> Kitchen is finished. (0m31.00s)
+I, [2015-05-12T15:34:20.543366 #3792]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T15:34:24.580230 #3792]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T15:34:49.230875 #3792]  INFO -- Kitchen: -----> Kitchen is finished. (0m28.69s)
+I, [2015-05-12T15:39:41.545016 #2576]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T15:39:45.559156 #2576]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T15:40:10.262294 #2576]  INFO -- Kitchen: -----> Kitchen is finished. (0m28.72s)
+I, [2015-05-12T15:40:46.043563 #3856]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T15:40:50.106064 #3856]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T15:41:14.887323 #3856]  INFO -- Kitchen: -----> Kitchen is finished. (0m28.84s)
+I, [2015-05-12T15:47:17.425686 #3468]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T15:47:21.481838 #3468]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T15:47:46.121898 #3468]  INFO -- Kitchen: -----> Kitchen is finished. (0m28.70s)
+I, [2015-05-12T16:42:32.859040 #2892]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T16:42:36.873587 #2892]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T16:43:03.550649 #2892] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T16:47:31.129738 #3252]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T16:47:35.186240 #3252]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T16:48:01.771126 #3252] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T16:49:28.173024 #2392]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T16:49:32.212176 #2392]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T16:49:58.612290 #2392]  INFO -- Kitchen: -----> Kitchen is finished. (0m30.44s)
+I, [2015-05-12T16:51:01.097484 #2208]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T16:51:05.193801 #2208]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T16:51:31.936361 #2208]  INFO -- Kitchen: -----> Kitchen is finished. (0m30.84s)
+I, [2015-05-12T17:01:03.441916 #2168]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T17:01:07.537500 #2168]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T17:01:34.233544 #2168]  INFO -- Kitchen: -----> Kitchen is finished. (0m30.79s)
+I, [2015-05-12T17:06:00.655556 #3668]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T17:06:04.749309 #3668]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T17:06:33.754550 #3668]  INFO -- Kitchen: -----> Kitchen is finished. (0m33.10s)
+I, [2015-05-12T17:07:14.722770 #3288]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T17:07:18.796220 #3288]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T17:07:45.421235 #3288]  INFO -- Kitchen: -----> Kitchen is finished. (0m30.70s)
+I, [2015-05-12T19:02:30.899263 #488]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:02:34.987262 #488]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:02:58.284149 #488] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:04:02.393510 #3632]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:04:06.445564 #3632]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:04:35.238675 #3632] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:06:07.362371 #1500]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:06:11.428662 #1500]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:06:38.255248 #1500] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:14:27.917500 #2236]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:14:31.944573 #2236]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:14:58.784516 #2236] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:17:07.065834 #2992]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:17:11.081460 #2992]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:17:37.905822 #2992] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:21:17.693769 #3360]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:21:21.690964 #3360]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:21:50.565979 #3360] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:28:59.247153 #1328]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:29:03.284950 #1328]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:29:30.069976 #1328] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:31:17.457645 #3980]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:31:21.535021 #3980]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:31:48.363194 #3980] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:43:55.473949 #3224]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:43:59.415954 #3224]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T19:44:26.118632 #3224] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T19:46:50.207373 #504]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T19:46:54.167121 #504]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T19:47:23.087074 #504]  INFO -- Kitchen: -----> Kitchen is finished. (0m32.88s)
+I, [2015-05-12T20:42:29.927832 #576]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T20:42:33.943459 #576]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T20:43:02.779075 #576] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T20:44:47.974777 #3192]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T20:44:52.025508 #3192]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T20:45:21.367826 #3192]  INFO -- Kitchen: -----> Kitchen is finished. (0m33.38s)
+I, [2015-05-12T21:40:08.210851 #2824]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T21:40:12.291483 #2824]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T21:40:44.460871 #2824]  INFO -- Kitchen: -----> Kitchen is finished. (0m36.25s)
+I, [2015-05-12T21:43:16.132824 #3356]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T21:43:20.179700 #3356]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T21:43:44.340175 #3356] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T21:45:43.429774 #3032]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T21:45:47.450648 #3032]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+E, [2015-05-12T21:46:11.856749 #3032] ERROR -- Kitchen: Converge failed on instance <default-centos-65>.
+I, [2015-05-12T21:51:18.712592 #3500]  INFO -- Kitchen: -----> Starting Kitchen (v1.3.1)
+I, [2015-05-12T21:51:22.824423 #3500]  INFO -- Kitchen: -----> Converging <default-centos-65>...
+I, [2015-05-12T21:51:53.013100 #3500]  INFO -- Kitchen: -----> Kitchen is finished. (0m34.30s)

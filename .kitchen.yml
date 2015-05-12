@@ -1,0 +1,36 @@
+---
+driver:
+  name: ec2
+  aws_access_key_id: AKIAJGCAO64XMUPSXEIQ
+  aws_secret_access_key: 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
+  ssh_key: C:\Users\Administrator\.ssh\gramsay.pem
+  aws_ssh_key_id: gramsay_bot
+  region: us-west-2
+  availability_zone: us-west-2a
+  security_group_ids: ['sg-d11d0db4', 'sg-541e0e31', 'sg-9d1e0ef8']
+  subnet_id: subnet-da4bd3bf
+  image_id: ami-b6bdde86
+  flavor_id: m1.small
+  ssh_timeout: 3
+  ssh_retries: 5
+  #require_chef_omnibus: 11.16.4
+  tags:
+    Name: "Chef Training Node"
+    created-by: "test-kitchen"
+    user: <%= ENV['USER'] %>
+
+provisioner:
+  name: chef_zero
+  cookbook_path: C:\Users\Administrator\chef-repo\cookbooks
+  data_bags_path: C:\Users\Administrator\chef-repo\data_bags
+
+platforms:
+  - name: centos-6.5
+
+suites:
+  - name: default
+    run_list:
+     - recipe[apache::default]
+     - recipe[motd::default]
+     - recipe[users::default]
+    attributes:
